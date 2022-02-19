@@ -1,2 +1,0 @@
-# LogFileEventAnalyser
-Log File EventAnalyser 
